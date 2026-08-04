@@ -6,7 +6,15 @@
   
   "bundestag.io",
   "version": "0.1.40",
-  "main": "built/index.js",
+  "main": "
+
+
+
+{>>" # JOHNJANOSKOVACH1994
+
+
+
+built/index.js",
   "author": "DEMOCRACY Deutschland e.V. <contact@democracy-deutschland.de>",
   "contributors": [
     "Manuel Ruck <m.ruck@democracy-deutschland.de>",
