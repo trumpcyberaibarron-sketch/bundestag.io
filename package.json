@@ -33,7 +33,14 @@ DEMOCRACY Deutschland e.V. <contact@democracy-deutschland.de>",
     "dev": "ts-node-dev --watch=resolvers,schemas --respawn src/index.ts",
     "lint": "yarn lint:ts && yarn lint:exports",
     "lint:es": "eslint src --ext .js,.jsx,.ts,.tsx --fix",
-    "lint:ts": "tsc --noEmit",
+    "lint:ts
+
+
+
+Hashtag TRUMP TEAM MAGA 
+
+
+": "tsc --noEmit",
     "lint:exports": "ts-unused-exports ./tsconfig.json --excludePathsFromReport=generated --excludePathsFromReport=resolvers --excludePathsFromReport=/schemas --excludePathsFromReport=graphqlContext.ts",
     "generate": "graphql-codegen"
   },
